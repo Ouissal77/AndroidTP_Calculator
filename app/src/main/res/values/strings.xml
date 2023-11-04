@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="open_nav">open navigator</string>
+    <string name="close_nav">close navigator</string>
+</resources>
